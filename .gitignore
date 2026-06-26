@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+backend/venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Database/cache
+backend/chroma_db/
+
+# Node
+node_modules/
